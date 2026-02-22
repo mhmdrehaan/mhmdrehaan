@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Muhammad Yusuf Raihan!  
-**Frontend Developer | Next.js Specialist**
+**Frontend Web Developer**
 
 ---
 
